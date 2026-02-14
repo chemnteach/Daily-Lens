@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+raw_articles.json
+test_output.html
+digest_data.json
+.venv/
+*.egg-info/
